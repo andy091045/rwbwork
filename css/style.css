@@ -1,0 +1,385 @@
+*{
+    box-sizing: border-box;
+    font-family: 'cwTeXYen', sans-serif;
+}
+
+footer{
+    height:45vw;
+}
+
+hr,
+html,
+body {
+    
+    max-width: 100%;
+    overflow-x: hidden;
+    padding:0 auto;
+    margin: 0 auto;
+}
+
+.header{
+    height:38vw;
+    background-image: url('../img/web/img_banner@3x.png');
+    background-size:100% ;
+    background-size: cover;
+  
+}
+
+.top{
+    padding-top: 4vw;
+    display: flex;
+    flex-direction: row;
+}
+
+.nav{
+    height:8vw;
+   
+    color:white;
+}
+
+.nav_bg{
+    background-color: black;
+}
+
+.nav_menu{
+    display: none;
+}
+
+.arrow-left{
+    width:3vw;
+    margin:15vw 0 ;
+    margin-left: 1vw;
+}
+
+.arrow-right{
+    width:3vw;
+    margin:15vw 0 ;
+       transform:scaleX(-1);
+       margin-left: 89vw;
+      
+}
+
+.top-word{
+    margin: 0  1vw;
+    font-size: 1.5vw;
+}
+
+.top-icons{
+    margin-left: 25vw;
+}
+
+.top-icon{
+    width:2vw;
+    height:2vw;
+    margin: 0 1vw;
+}
+
+.tra-row{
+    display: flex;
+    flex-direction: row;
+}
+
+.line{
+    margin-left: 33vw;
+ width:30vw;
+}
+hr{
+    width:5vw;
+    size:6vw;
+}
+
+p{
+    color:white;
+}
+
+.label{
+    
+    font-size:4vw;
+}
+
+.logo{
+    width: 3vw;
+    height: 4vw;
+    padding-bottom: 1.5vw;
+    margin-left: 1vw;
+}
+
+p1{
+    color:white;
+}
+
+p{
+    padding-bottom: 3vw;
+    margin: 4vw 0 10vw 40vw;
+    /* margin-left: 40vw; */
+    font-size:1.1vw;
+}
+
+p1{
+    font-size:2vw;
+    margin: 1vw 0 10vw 45vw;
+   }
+
+.space-between{
+    padding: 2vw 8vw 8vw  8vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bticon{
+    margin: 2vw 1vw 2vw 1vw;
+    width:6vw;
+    height:5vw;
+}
+.pp{
+    margin: 1vw 0 5vw 28.5vw;
+}
+
+.main-label2{
+    width:50vw;
+   
+   
+    margin: 15vw 0vw 8vw 35vw;
+    
+}
+
+.label2{
+    padding:1vw 2vw 1vw 2vw;
+    font-size: 2vw;
+    background-color: black;
+}
+
+.main-label1{
+    /* width:24vw; */
+    font-size: 2vw;
+   
+    margin: 2vw 0vw 5vw 40vw;
+   padding-left:43vw;
+}
+
+.main-label3{
+    /* width:24vw; */
+    font-size: 2vw;
+   
+    margin: 5vw 0vw 5vw 38vw;
+   padding-left:40vw;
+   
+}
+
+#pt1{
+    padding-left: 20vw;
+    padding-top: 19.5vw;
+    padding-bottom: 1vw;
+    background-image: url('../img/web/img_pewds@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    margin-bottom: 2vw;
+    font-size:1.5vw;
+    color:white;
+}
+
+#pt2{
+    padding-left: 8vw;
+    padding-bottom: 1vw;
+    padding-right: 2vw;
+    padding-top: 19.5vw;
+    background-image: url('../img/web/img_bli@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    margin-right: 1vw;
+    margin-top: 2vw;
+    font-size:1.5vw;
+    color:white;
+}
+
+#pt3{
+    padding-left: 10vw;
+    padding-top: 19.5vw;
+    padding-bottom: 1vw;
+    background-image: url('../img/web/img_cyka@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    margin-left: 1vw;
+    margin-top: 2vw;
+    font-size:1.5vw;
+    color:white;
+}
+
+#pt5{
+    padding-right: 63vw;
+    padding-bottom: 30vw;
+     background-image: url('../img/web/img_han@3x.png');
+     background-size:100% ;
+     background-size: cover;
+   
+ }
+
+#pt4{ padding-top: 45vw;
+   padding-left: 35vw;
+    background-image: url('../img/web/img_tw1@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    font-size:1.5vw;
+    color:white;
+}
+
+#pt6{
+    padding-bottom: 1vw;
+    padding-left: 15vw;
+    background-image: url('../img/web/img_weed@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    padding-top: 20vw;
+    margin-right: 1vw;
+    font-size:1.5vw;
+    color:white;
+}
+#pt7{
+    padding-left: 20vw;
+    padding-bottom: 1vw;
+    background-image: url('../img/web/img_doot@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    padding-top: 20vw;
+    margin-left: 1vw;
+    font-size:1.5vw;
+    color:white;
+}
+#pt8{
+    padding-left: 20vw;
+    padding-bottom: 1vw;
+    margin-top: 2vw;
+    padding-top: 20vw;
+    background-image: url('../img/web/img_69@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    margin-right: 1vw;
+    font-size:1.5vw;
+    color:white;
+ 
+}
+#pt9{
+    padding-left: 15vw;
+    padding-bottom: 1vw;
+    margin-top: 2vw;
+    background-image: url('../img/web/img_eris@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    padding-top: 20vw;
+    margin-left: 1vw;
+    font-size:1.5vw;
+    color:white;
+}
+#pt10{padding-top: 44.5vw;
+    padding-left: 17vw;
+    background-image: url('../img/web/img_boomer@3x.png');
+    background-size:100% ;
+    background-size: cover;
+    font-size:1.5vw;
+    color:white;
+}
+
+.main-words{
+    line-height: 2vw;
+    padding: 10vw 2vw;
+    font-size:1.5vw;
+    color:white;
+    background-color: black;
+}
+.row{
+    display: flex;
+    flex-wrap:wrap;
+    margin: 2vw 2vw;
+}
+
+.col{
+    width:100%;
+    padding:0 2vw;
+   
+}
+
+.mar-5{
+    margin-bottom: 5vw;
+}
+
+.col-11 {width: 91.662%;}
+.col-10 {width: 83.332%;}
+.col-9 {width: 75%;}
+.col-8 {width: 66.662%;}
+.col-7 {width: 58.331%}
+.col-6 {width: 50%;}
+.col-5 {width: 41.662%;}
+.col-4 {width: 33.332%;}
+.col-3 {width: 25%;}
+.col-2 {width: 16.662%;}
+.col-1 {width: 8.332%;}
+
+@media screen and (max-width: 320px) {
+    .nav_menu{
+        display: block;
+        font-size:4vw;
+       
+        margin-left: 90vw;
+
+        padding: 2vw 3vw;
+        border-radius: 1vw;
+
+    }
+    .top-word{
+       display: none;
+    }
+    
+    .top-icons{
+       display: none;
+    }
+
+    .btword{
+        font-size:3vw;
+    }
+	.col-sm-11 {width: 91.662%}
+	.col-sm-10 {width: 83.332%;}
+	.col-sm-9 {width: 75%;}
+	.col-sm-8 {width: 66.662%;}
+	.col-sm-7 {width: 58.331%}
+	.col-sm-6 {width: 50%;}
+	.col-sm-5 {width: 41.662%}
+	.col-sm-4 {width: 33.332%;}
+	.col-sm-3 {width: 25%;}
+	.col-sm-2 {width: 16.662%;}
+	.col-sm-1 {width: 8.332%;}
+
+}
+
+
+@media screen and (max-width: 768px) {
+    .top-word{
+        margin: 0  1.0vw;
+        font-size: 2.0vw;
+    }
+
+    .da{
+        display: none;
+    }
+    .main-words{
+        line-height: 1vw;
+        font-size: 1vw;
+    }
+  
+	.col-md-11 {width: 91.662%}
+	.col-md-10 {width: 83.332%;}
+	.col-md-9 {width: 75%;}
+	.col-md-8 {width: 66.662%;}
+	.col-md-7 {width: 58.331%}
+	.col-md-6 {width: 50%;}
+	.col-md-5 {width: 41.662%}
+	.col-md-4 {width: 33.332%;}
+	.col-md-3 {width: 25%;}
+	.col-md-2 {width: 16.662%;}
+	.col-md-1 {width: 8.332%;}
+
+}
+
+
+
+
+
